@@ -1,0 +1,1 @@
+mp_potential_step(obj_Player.x,obj_Player.y,spd,false);

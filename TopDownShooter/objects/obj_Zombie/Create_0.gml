@@ -1,0 +1,1 @@
+enemyLife = 2;
