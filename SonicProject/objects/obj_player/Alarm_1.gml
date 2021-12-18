@@ -1,0 +1,3 @@
+//Damage Cooldown
+
+isCooldown = false;

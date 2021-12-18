@@ -1,0 +1,1 @@
+audio_play_sound(s_BadnickDestroy,1000,false);

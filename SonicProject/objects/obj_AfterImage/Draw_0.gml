@@ -1,0 +1,1 @@
+draw_sprite_ext(obj_player.sprp,obj_player.image_i,x,y,-obj_player.xdir,1,obj_player.angle,c_white,0.7);
